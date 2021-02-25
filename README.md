@@ -12,4 +12,9 @@ The theme still under development mainly focusing on **JS, Typescript and Markdo
 ## Preview
 ![theme-preview](images/screenshot.jpg)
 
+## Installing
+
+You can find it on vs code's extensions search tab or on the [marketplace].
+
 [MS Teams]: https://microsoft.com/teams
+[marketplace]: https://marketplace.visualstudio.com/items?itemName=mesaquen.mesaquen-hc-theme
