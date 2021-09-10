@@ -1,27 +1,33 @@
 {
-    "name": "mesaquen-hc-theme",
-    "displayName": "mesaquen-hc-theme",
-    "description": "A high contrast theme but with only 8 bit colors and 2 bit grayscale",
-    "homepage": "https://github.com/mesaquen/mzk-hc-theme",
-    "publisher": "mesaquen",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/mesaquen/mesaquen-hc-theme.git"
-    },
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.53.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "MesaqueN High Contrast",
-                "uiTheme": "hc-black",
-                "path": "./themes/MZK_High_Contrast-color-theme.json"
-            }
-        ]
-    }
+	"name": "mesaquen-hc-theme",
+	"displayName": "mesaquen-hc-theme",
+	"description": "A high contrast theme but with only 8 bit colors and 2 bit grayscale",
+	"homepage": "https://github.com/mesaquen/mzk-hc-theme",
+	"publisher": "mesaquen",
+	"icon": "images/icon.png",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/mesaquen/mesaquen-hc-theme.git"
+	},
+	"version": "0.0.2",
+	"engines": {
+		"vscode": "^1.53.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "MesaqueN High Contrast",
+				"uiTheme": "hc-black",
+				"path": "./themes/MZK_High_Contrast-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "58fa8bff-8b49-4026-90f3-662448338441",
+		"publisherDisplayName": "Mesaque Francisco",
+		"publisherId": "be867490-8a2a-48dc-af75-f6d4ecb49636"
+	}
 }

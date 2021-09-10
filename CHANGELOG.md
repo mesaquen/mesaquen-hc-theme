@@ -1,7 +1,10 @@
 # Change Log
 
-All notable changes to the "mzk-hc-theme" extension will be documented in this file.
+## 0.0.2
 
-## [Unreleased]
+- Better readablility on tabs
+- Change in focus border color
+
+## 0.0.1
 
 - Initial release
