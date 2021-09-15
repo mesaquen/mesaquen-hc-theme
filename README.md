@@ -14,7 +14,12 @@ The theme still under development mainly focusing on **JS, Typescript and Markdo
 
 ## Installing
 
-You can find it on vs code's extensions search tab or on the [marketplace].
+You can find it on the [marketplace].
+
+To install directly via VS Code. Launch VS Code Quick Open (`Ctrl+P`), paste the following command, and press enter.
+```
+ext install mesaquen.mesaquen-hc-theme
+```
 
 [MS Teams]: https://microsoft.com/teams
 [marketplace]: https://marketplace.visualstudio.com/items?itemName=mesaquen.mesaquen-hc-theme
