@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.0.3
+
+- Adding icon
+
 ## 0.0.2
 
 - Better readablility on tabs
