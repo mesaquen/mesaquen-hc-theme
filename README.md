@@ -1,5 +1,7 @@
 # @mesaquen High Contrast Theme
-This is my personal vscode theme. A high contrast theme, since I'm getting old and having issues with seeing things :laughing:. This theme has a color limitation on purpose. I only used 8-bit colors and 2-bit grayscale.
+This is my personal vscode theme. A high contrast theme, since I'm getting old and having issues with low contrast UI. 
+
+This theme has a color limitation on purpose. It only used 8-bit colors and 2-bit grayscale.
 
 ## The problem
 Since I started having trouble identifying characters on those low contrast themes, I started using high contrast themes (on [MS Teams]).
