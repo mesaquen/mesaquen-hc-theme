@@ -9,7 +9,7 @@
     "type": "git",
     "url": "https://github.com/mesaquen/mesaquen-hc-theme.git"
   },
-  "version": "0.0.4",
+  "version": "0.0.5",
   "engines": {
     "vscode": "^1.53.0"
   },
@@ -33,6 +33,8 @@
   "devDependencies": {
     "@commitlint/cli": "^20.5.3",
     "@commitlint/config-conventional": "^20.5.3",
+    "@commitlint/cz-commitlint": "^21.2.3",
+    "commitizen": "^4.3.2",
     "conventional-changelog": "^7.2.1",
     "husky": "^9.1.7",
     "lint-staged": "^17.5.1",
@@ -41,6 +43,8 @@
   },
   "type": "module",
   "scripts": {
-    "prepare": "node .husky/install.mjs"
+    "commit": "cz",
+    "prepare": "node .husky/install.mjs",
+    "changelog": "conventional-changelog -i CHANGELOG.md"
   }
 }
