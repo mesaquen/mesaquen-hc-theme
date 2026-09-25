@@ -29,5 +29,18 @@
     "id": "58fa8bff-8b49-4026-90f3-662448338441",
     "publisherDisplayName": "Mesaque Francisco",
     "publisherId": "be867490-8a2a-48dc-af75-f6d4ecb49636"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^20.5.3",
+    "@commitlint/config-conventional": "^20.5.3",
+    "conventional-changelog": "^7.2.1",
+    "husky": "^9.1.7",
+    "lint-staged": "^17.5.1",
+    "oxlint": "^1.85.0",
+    "prettier": "^3.9.9"
+  },
+  "type": "module",
+  "scripts": {
+    "prepare": "node .husky/install.mjs"
   }
 }
